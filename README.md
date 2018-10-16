@@ -1,3 +1,4 @@
+//Jhenya Ezhova/ Jonathan Erquinigo
 # Rock, Paper, Scissors
 
 You tried in the JavaScript workshop, but you were missing one crucial element: *callbacks*.
